@@ -3,6 +3,12 @@ This is the production build of the Chrome extension which could be directly ins
 Tested Browser:
 - Microsoft Edge: Version 119
 
+# Demo
+[Demo Video](https://github.com/manu-shukla/AskAI-chrome-extension/assets/18571875/c131f125-e712-4c6d-b67a-72264b5f4bdc)
+
+![Demo Screenshot](https://github.com/manu-shukla/AskAI-chrome-extension/assets/18571875/08b8c6e9-c79f-47eb-bf49-d02fbc16c23b)
+
+
 ## Installation
 
 1. Clone the repository to your local machine.
